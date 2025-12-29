@@ -23,3 +23,24 @@ The app uses **Express.js** for the server and **Mongoose** for MongoDB interact
 ```bash
 git remote add origin https://github.com/username/node-mongo-person.git
 cd node-mongo-person
+
+# Node-Mongo-Person CRUD App
+
+A simple Node.js + MongoDB CRUD app.
+
+## Features
+- Add, Edit, Delete, List persons
+
+## Demo Video
+
+<video width="600" controls>
+  <source src="output2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+## Demo Video
+
+[Watch Demo](output2.mp4)
+
+
